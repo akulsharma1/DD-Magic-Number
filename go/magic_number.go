@@ -1,8 +1,6 @@
 package magicnumber
 
 import (
-	"errors"
-	"fmt"
 	"math"
 	"strconv"
 )
